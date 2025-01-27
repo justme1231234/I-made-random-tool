@@ -1,5 +1,5 @@
-This tool is opening apps without find the apps
-This tool is more comfortable to organize apps because you can open all apps with this tool!
+This tool is opening apps without find them
+Using this tool will make it easier for you to organize your computer files because you can open all apps with this tool!
 
 You can add file openapps.bat or openapps.command to run this code comfortably
 
