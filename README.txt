@@ -21,3 +21,5 @@ python "C:/your/file/path/filename.py"
 pause
 3.Rewrite to your file path and filename
 4.save file to .bat
+
+Thank you for using this tool!!!
